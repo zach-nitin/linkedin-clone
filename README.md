@@ -46,7 +46,8 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 # About the Project
-This LinkedIn- clone was created using ReactJs and Redux toolkit. Firebase was used in the backend.
+* This LinkedIn- clone was created using ReactJs and Redux toolkit. Firebase was used in the backend.
+* The overview of the clone can be seen under the images folder
 
 # App Functionality
 
