@@ -44,3 +44,12 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# About the Project
+This LinkedIn- clone was created using ReactJs and Redux toolkit. Firebase was used in the backend.
+
+# App Functionality
+
+1] Users can register using their full name, image url, email and password.
+2] Logged in users can view other people posts and can add their own post in the feed.
+3] Users can logout by clicking on the avatar which is present on the nav bar.
