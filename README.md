@@ -50,6 +50,6 @@ This LinkedIn- clone was created using ReactJs and Redux toolkit. Firebase was u
 
 # App Functionality
 
-1] Users can register using their full name, image url, email and password.
-2] Logged in users can view other people posts and can add their own post in the feed.
-3] Users can logout by clicking on the avatar which is present on the nav bar.
+* Users can register using their full name, image url, email and password.
+* Logged in users can view other people posts and can add their own post in the feed.
+* Users can logout by clicking on the avatar which is present on the nav bar.
